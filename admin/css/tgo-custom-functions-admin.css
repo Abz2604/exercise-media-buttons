@@ -1,0 +1,12 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.ins_ex_link {
+    cursor: pointer;
+}
+
+#exercise_modal {
+    z-index: 100001;
+}
